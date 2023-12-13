@@ -1,2 +1,2 @@
-# loghi
-contenitori di loghi immagine
+# loghi e immagini varie
+contenitori di loghi e immagini
